@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/esm",
+    "target": "es2022",
+    "module": "es2022",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "strict": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["./src"]
+}
